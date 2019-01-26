@@ -1,0 +1,5 @@
+================Information on Email.py file=======================
+In this application we can send multiple emails on same time.
+One have to mention all mail addresses in the list & have to provide correct credentials from which emails can be send.
+I use starttls for this task there are other ways also to do the same task.
+I use gmail accounts to send mails.
